@@ -1,3 +1,5 @@
+# https://github.com/CoptFNM/lab10-MK-GG
+
 import unittest
 from calculator import *
 
